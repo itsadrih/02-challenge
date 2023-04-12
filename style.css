@@ -1,0 +1,29 @@
+
+.header {
+border-style: hidden;
+background-color: lightcoral;
+box-sizing: content-box;
+font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+ul {
+text-align: right;
+
+
+
+}
+
+
+
+p {
+font-style: normal;
+border-style: solid;   
+display: block;
+background-color: rgb(235, 245, 242);
+border-radius: 10px;
+border-width: 5px;
+margin-top: 10px;
+padding: 5px;
+}
