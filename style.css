@@ -1,7 +1,7 @@
 
 .header {
 border-style: hidden;
-background-color: lightcoral;
+background-color: rgb(118, 150, 217);
 box-sizing: content-box;
 font-family: 'Times New Roman', Times, serif;
 
@@ -27,12 +27,53 @@ text-decoration:solid
 
 h3 {
 font-style: normal;
-border-style: solid;   
-border-color:aquamarine;
-display: inline-block;
 background-color: white;
+text-align: end;
+}
+
+
+h1 {
+text-align:left
+
+}
+
+
+.work {
+columns: right ;
+position: relative; left:600px;
+border-style: solid;
+display: inline-block; 
 border-radius: 10px;
 border-width: 5px;
-margin-top: 10px;
+margin-top: 10px ;
 padding: 50px;
+
+}
+
+
+
+button {
+float:right;
+display:flex;
+position: relative;
+border-style: solid;
+border-color: blue;
+border-width: 80px;
+padding:30px;
+
+}
+
+
+
+
+
+.Contact-me {
+list-style-position: outside;
+
+}
+
+
+
+@media screen {
+    
 }
